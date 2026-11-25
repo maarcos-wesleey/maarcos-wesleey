@@ -74,7 +74,7 @@ Sou desenvolvedor full-stack e transformo ideias em produtos que vão para produ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maarcos-wesleey&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maarcos-wesleey&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcos-wesleey&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 
 <img src="https://streak-stats.demolab.com?user=maarcos-wesleey&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
